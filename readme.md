@@ -6,7 +6,7 @@ GoLangWeb is a simple GoLang website using mux to run on KUBERNETES or RANCHER a
 
 ## DOCKERHUB
 
-> Will be updated soon
+> Will be updated
 
 [![dockeri.co](http://dockeri.co/image/tmoaaz/golangweb)](https://hub.docker.com/r/tmoaaz/golangweb/)
 
